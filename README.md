@@ -45,6 +45,13 @@ Include some interesting codes\features worked with
 ### Results\findings
 
 The analysis results are summarized as follows:
+- Out of 10,000 bank customers, 2,037 customers churned giving an overall churn rate of 20.37% and a retention rate of 79.63%
+
+- France holds the largest customer base with 2,591 active customers followed by Spain with 1,312 and Germany with 1,248
+
+- The majority of churned customers fall between ages 30-44 and 45-59 together making up 86.8% of all customers who left. Customers under 30 represent only 6.12% of churned customers making them the most loyal group.
+
+- Female customers make up 56.33% of all churned customers while males account for 43.67% showing females are more likely to leave than males.
 
 
 ### Recommendation
