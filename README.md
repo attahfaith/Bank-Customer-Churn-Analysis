@@ -56,9 +56,17 @@ The analysis results are summarized as follows:
 
 ### Recommendation
 
-- Launch targeted campaigns for customers aged 45-49
-- Create loyalty rewards for long tenure customers to prevent churn at critical stage
+- Since 30-44 and 45-59 age groups make up 86.8% of churned customers, the bank should create special retention packages, personalised financial advice and loyalty rewards specifically designed for this age group.
 
+- Most churned customers were already inactive, the bank should launch proactive engagement campaigns like monthly check-in calls, app notifications and exclusive offers to bring inactive customers back before they decide to leave.
+
+- Females make up 56.33% of churned customers, the bank should conduct surveys and focus groups with female customers to understand what products, services or experiences are not meeting their needs.
+
+- Both ends of the balance segment are churning. Low balance customers may need affordable product options while high balance customers deserve premium relationship 
+management to feel valued.
+
+- Since younger customers under 30 are most loyal, the bank should invest in youth focused products to grow this loyal segment while working to retain older customers.
+  
 ### Limitations
 
 - Dataset does not include time period
