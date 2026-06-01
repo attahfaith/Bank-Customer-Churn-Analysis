@@ -4,7 +4,8 @@
 
 This project analyzes customer churn behaviour across 10,00 bank customers in France, Germany,and Spain. The aim is to identify the key factors driving customer attrition and provide actionable recommendations to improve retention. The dataset contains 14 variables including customer demographics, account information and churn status
 
-<img width="1387" height="633" alt="Bank Churn Analysis" src="https://github.com/user-attachments/assets/de1394d8-372c-4784-84bf-9c9ebc73f911" />
+<img width="1387" height="635" alt="Bank Customer churn" src="https://github.com/user-attachments/assets/e49baaca-0ed6-4408-95e6-04da45355251" />
+
 
 
 ### Data Source
