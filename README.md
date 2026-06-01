@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This project analyzes customer churn behaviour across 10,00 bank customers in France, Germany,and Spain. The aim is to identify the key factors driving customer attrition and provide actionable recommendations to improve retention. The dataset contains 14 variables including customer demographics, account information and churn status
+This project analyzes customer churn behaviour across 10,000 bank customers in France, Germany,and Spain. The aim is to identify the key factors driving customer attrition and provide actionable recommendations to improve retention. The dataset contains 14 variables including customer demographics, account information and churn status
 
 <img width="1387" height="635" alt="Bank Customer churn" src="https://github.com/user-attachments/assets/e49baaca-0ed6-4408-95e6-04da45355251" />
 
@@ -77,7 +77,7 @@ management to feel valued.
 
 1. KAGGLE
 2. Bank Customer Churn
-3. [MicrosoftExcel](https://microsoft Excel.com)
+3. [MicrosoftExcel](https://microsoftexcel.com)
           
 
 
